@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<a href="https://t.me/FaNkYs" target="_blank"> 
+<a href="https://t.me/QA_JUNIOR_RU" target="_blank"> 
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> </div>
   <div align="center">My blog QA Junior tap icon.</div>
    
