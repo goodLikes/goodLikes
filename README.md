@@ -1,7 +1,7 @@
 
 # <h1 align="center">Hi there, I'm <a href="[https://t.me/QA_JUNIOR_RU]" target="_blank">Denis B/</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">Computer science student, from Belarus <img src="[https://icons8.com/icon/MvQ8Pu9VD4gT/belarus]" alt="Belarus"> </h3>
+<h3 align="center">Computer science student, from Belarus </h3>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=goodLikes.goodLikes&"  />
 </div>
