@@ -6,10 +6,11 @@
 </div>
 
 <div align="center">
-  <a href="https://t.me/QA_JUNIOR_RU" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" /></div>
+<a href="https://t.me/FaNkYs" target="_blank"> 
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> </div>
+  <div align="center">My blog QA Junior tap icon.</div>
    
-<div align="center"> Мой канал в мир QA Junior тапай по иконке  </div>
+
 
 ---    
 
