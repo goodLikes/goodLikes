@@ -75,7 +75,14 @@
 
 ---
 
-### 👨‍💻 Full-stack
+### 
+<div style="display: flex; justify-content: space-between;">
+  <div>👨‍💻 Full-stack</div>
+  <div>🤖 Artificial Intelligence</div>
+  <div>🛠 Тестирование веб-приложений</div>
+</div>
+
+
 <div> 
   
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
